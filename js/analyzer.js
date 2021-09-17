@@ -176,6 +176,8 @@ function analyzer() {
       }
     }
     jsonDataArr.push(companyGrouped, JSON_OUTPUT_FILE_PATH4);
+
+    // This for my reference to check objects
     console.log(authorizedCapital);
     console.log(registeredYears);
     console.log(principalActivity);
